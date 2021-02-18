@@ -1,0 +1,11 @@
+.Rroj.*
+.RData
+README
+.Rhistory*
+expDesignObject.rda
+expDesign.RDS
+fittedData.rda
+TODOs
+.Rproj.user/
+.Rbuildignore
+RTIGERJ.Rproj
