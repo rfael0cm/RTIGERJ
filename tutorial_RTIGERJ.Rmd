@@ -108,7 +108,7 @@ print(chr_len)
 RTIGER does model training, COs identification, per sample and summary plots creation using a single function.
 ```{r echo=TRUE, eval=FALSE}
 myres = RTIGER(expDesign = expDesign,
-               outputdir = "PATH/TO/OUTPUT/DIRECTORY",
+               outputdir = "/srv/netscratch/dep_mercier/grp_schneeberger/projects/SynSearch/tests",
                seqlengths = chr_len,
                rigidity = 200)
 ```

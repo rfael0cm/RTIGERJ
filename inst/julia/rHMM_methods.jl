@@ -832,7 +832,7 @@ end
 function fit(
     input_Observations,
     info,
-    initial_parameter;
+    initial_parameter,
     max_iter = 100,
     eps = 10^(-5),
     trace = false,
